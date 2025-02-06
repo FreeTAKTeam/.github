@@ -1,6 +1,6 @@
 Welcome to FreeTAKTeam, we are a group of developers passionate about Situational Awareness and Opensource. Please check out our main project FreeTAKServer!
 
-this organization manages the following repositories
+FreeTAKTeam manages the following repositories
 
 ## Situational Awareness
 - FreeTakServer: Situational Awareness Server compatible with TAK clients
