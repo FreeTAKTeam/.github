@@ -28,6 +28,7 @@ FreeTAKTeam manages the following repositories
 repositories that support DE, not all are public, ask the team for access
   - DigitalArchitectureFramework: The Digital Architecture Framework (DAF), is a set modeling tools for Digital Engineering.
   - DAF_DP_Component_Generator: Digitalpy Component Generator from DAF model.
+  - DAF_OAS_Generator: Generator to generate OAS files from a DAF model
   -  DAF_DP_UI_Generator: Digitalpy Component Generator from OAS API specification
   -  LSO_API_Importer: This Repository enables the imports of MEF LSO API's
   -  OAS3_JSON_Parser: This repository is responsible for parsing OAS3 JSON specifications using XText
