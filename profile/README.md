@@ -35,3 +35,4 @@ repositories that support DE, not all are public, ask the team for access
   -  DAF_relationshipManager: manages set of relationships using AI 
   -  DigitalPy: A framework to support digital engineering in the python language
   -  DigitalPyHelloWorld: a minimal application running DigitalPy
+  -  Nest.JS OpenAPI Generator: a nest JS generator that support AI
