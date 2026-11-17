@@ -1,8 +1,18 @@
-Welcome to FreeTAKTeam, we are a group of developers passionate about Situational Awareness and Opensource. Please check out our main project FreeTAKServer!
+Welcome to FreeTAKTeam, we are a group of developers passionate about democratizing situational awareness.
 
-FreeTAKTeam manages the following repositories
+FreeTAKTeam manages the following repositories:
 
-## Situational Awareness
+## **R3AKT**
+[Reticulum Resilient Response Tactical Kit](https://freetakteam.github.io/R3AKT/)
+- **LXMF-rs** — Rust porting  of Reticulum + LXMF messaging , the shared stack that REM and YARA ship with.
+- **Reticulum Community Hub (RCH)** — Community-owned hub for messaging, shared map, missions, checklists and files over Reticulum/LXMF.
+- **Reticulum Emergency Management (REM)** — Android field app for team status, chat, checklists and map positions over Reticulum mesh, with optional RCH support.
+- **YARA** — Yet Another Reticulum Application: a fast, lightweight LXMF chat client built on the Rust Reticulum stack.
+- **R3AKT UAS** — Android DJI flying app feeding aircraft telemetry, markers and video into RCH/REM (specification and scaffold stage).
+- **TRex plugin for REM** — Tactical REM plugin (rem-tactical-trex2) that adds a radar view of nearby team members and markers.
+- **ATN Rangefinder** — Rust core and Android REM plugin that links ATN rangefinders and binoculars to the REM map over Bluetooth.
+
+## TAK Situational Awareness
 - FreeTakServer: Situational Awareness Server compatible with TAK clients
 - UI: FreeTAKServer Web User Interface project
 - FreeTAKHub-Installation: this repository contains the Ansible code that is used by the ZeroTouch installer
@@ -10,7 +20,7 @@ FreeTAKTeam manages the following repositories
 -  FreeTAKTest: this repository contains data and utilities to test TAK servers and clients
 -  FreeTAKMumla_Plugin: A project that host a ATAK plugin that display a PPT button for Mumla Android
 -  FreeTAKUAS: DJI drone flying app with integrations for FreeTAKServer
--  openTAKpickList: 
+-  openTAKpickList: collection of useful TAK links
 
 
   ## FreeTAKHub
